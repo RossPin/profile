@@ -1,12 +1,12 @@
 const reactProjects = [
   {
     name: 'The Persistence',
-    img: 'placeholder.png',
+    img: 'persistence.png',
     url: 'https://the-persistence.herokuapp.com/'
   },
   {
     name: 'Battle Ships',
-    img: 'placeholder.png',
+    img: 'battleships.png',
     url: 'https://battleships-eda.herokuapp.com/'
   }
 ]
@@ -14,42 +14,42 @@ const reactProjects = [
 const preBootProjects = [
   {
     name: 'EDA Blog',
-    img: 'placeholder.png',
+    img: 'blog.png',
     url: 'https://rosspin.github.io/'
   },
   {
     name: 'Mine Sweeper',
-    img: 'placeholder.png',
+    img: 'minesweeper.png',
     url: 'https://rosspin.github.io/minesweeper/'
   },
   {
     name: 'Calculator',
-    img: 'placeholder.png',
+    img: 'calculator.png',
     url: 'https://rosspin.github.io/js-calculator'
   },
   {
     name: 'Piano',
-    img: 'placeholder.png',
+    img: 'piano.png',
     url: 'https://rosspin.github.io/piano'
   },
   {
     name: 'Local Weather',
-    img: 'placeholder.png',
+    img: 'weather.png',
     url: 'https://rosspin.github.io/weather'
   },
   {
     name: 'Tic Tac Toe',
-    img: 'placeholder.png',
+    img: 'tictactoe.png',
     url: 'https://rosspin.github.io/tic-tac-toe'
   },
   {
     name: 'Pomodoro Clock',
-    img: 'placeholder.png',
+    img: 'pomodoro.png',
     url: 'https://rosspin.github.io/pomodoro'
   },
   {
     name: 'Simon Game',
-    img: 'placeholder.png',
+    img: 'simon.png',
     url: 'https://rosspin.github.io/Simon'
   }
 ]
