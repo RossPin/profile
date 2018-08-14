@@ -51,5 +51,10 @@ const preBootProjects = [
     name: 'Simon Game',
     img: 'simon.png',
     url: 'https://rosspin.github.io/Simon'
+  },
+  {
+    name: 'Conways Game of Life',
+    img: 'conways.png',
+    url: 'https://rosspin.github.io/Conways/'
   }
 ]
