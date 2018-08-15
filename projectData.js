@@ -10,6 +10,12 @@ const reactProjects = [
     img: 'battleships.png',
     url: 'https://battleships-eda.herokuapp.com/',
     description: "An implementation of the classic board game 'Battleships'. This can be played with 2 players on the same computer or as 1 player against the computer. I built this as a personal project during bootcamp."
+  },
+  {
+    name: 'Show me the Money',
+    img: 'showmoney.png',
+    url: 'https://show-money.herokuapp.com/',
+    description: "A meeting tracker to keep track of how much meetings are costing. This was built with a team of 6 as a 2 day project during bootcamp."
   }
 ]
 
