@@ -9,7 +9,7 @@ const reactProjects = [
     name: 'Battle Ships',
     img: 'battleships.png',
     url: 'https://battleships-eda.herokuapp.com/',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: "An implementation of the classic board game 'Battleships'. This can be played with 2 players on the same computer or as 1 player against the computer. I built this as a personal project during bootcamp."
   }
 ]
 
