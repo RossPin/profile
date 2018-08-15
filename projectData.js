@@ -18,54 +18,54 @@ const preBootProjects = [
     name: 'EDA Blog',
     img: 'blog.png',
     url: 'https://rosspin.github.io/',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: 'This is the blog site I created as part of EDA phase 0 prep. It was the first website I made, and continualy added to and updated with blog exercises during phase 0'
   },
   {
     name: 'Mine Sweeper',
     img: 'minesweeper.png',
     url: 'https://rosspin.github.io/minesweeper/',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: 'This was the project from one of the sprints in phase 0. This was the first full app built using javascript.'
   },
   {
     name: 'Calculator',
     img: 'calculator.png',
     url: 'https://rosspin.github.io/js-calculator',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: 'A basic calculator app, this was another phase 0 project. Built from scratch to meet set user stories.'
   },
   {
     name: 'Piano',
     img: 'piano.png',
     url: 'https://rosspin.github.io/piano',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: 'An app to let you play simple tunes with your keyboard. I built this in the last sprint of phase 0, where we were to build any app we want.'
   },
   {
     name: 'Local Weather',
     img: 'weather.png',
     url: 'https://rosspin.github.io/weather',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: 'Displays the current weather in your location. I built this to play around with APIs. Built to meet user stories on freecodecamp.com'
   },
   {
     name: 'Tic Tac Toe',
     img: 'tictactoe.png',
     url: 'https://rosspin.github.io/tic-tac-toe',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: 'A game of tic-tac-toe you play against the computer. Built to meet user stories on freecodecamp.com'
   },
   {
     name: 'Pomodoro Clock',
     img: 'pomodoro.png',
     url: 'https://rosspin.github.io/pomodoro',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: 'A Pomodoro clock you can use to time your work sessions. Built to meet user stories on freecodecamp.com'
   },
   {
     name: 'Simon Game',
     img: 'simon.png',
     url: 'https://rosspin.github.io/Simon',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: "An implementation of the classic board game 'Simon'. Built to meet user stories on freecodecamp.com"
   },
   {
     name: 'Conways Game of Life',
     img: 'conways.png',
     url: 'https://rosspin.github.io/Conways/',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed ea mala virtuti magnitudine obruebantur. Poterat autem inpune; Duo Reges: constructio interrete.'
+    description: 'The fist week of bootcamp we made conways functions using Node, to display on the console. Afterwards I wanted to remake as a web app to view in the browser.'
   }
 ]
