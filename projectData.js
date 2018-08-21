@@ -6,6 +6,12 @@ const reactProjects = [
     description: "An online multiplayer game for 5-10 players based on board game 'The Resistance'. This was built with a team of 6 as our final group project in bootcamp."
   },
   {
+    name: 'The Persistence Gameplay Demo',
+    img: 'persistence.png',
+    url: 'https://youtu.be/9XKUVAEB7nM',
+    description: "A demonstration video of gameplay. I have provided this video as actual gameplay requires 5 players"
+  },
+  {
     name: 'Battle Ships',
     img: 'battleships.png',
     url: 'https://battleships-eda.herokuapp.com/',
