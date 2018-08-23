@@ -2,7 +2,7 @@ const reactProjects = [
   {
     name: 'The Persistence',
     img: 'persistence.png',
-    url: 'https://the-persistence.herokuapp.com/',
+    url: 'https://persistence-rp.herokuapp.com/',
     description: "An online multiplayer game for 5-10 players based on board game 'The Resistance'. This was built with a team of 6 as our final group project in bootcamp."
   },
   {
