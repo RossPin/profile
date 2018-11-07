@@ -14,7 +14,7 @@ body {
 
 .banner {  
   width: calc(100% - 0.5px);
-  margin: 0 auto;  
+  margin: 0.3px auto 0 auto;  
   background: linear-gradient(to bottom right,  rgb(210, 250, 140),  rgb(180, 220, 110));
   border-bottom: 1px solid black;
   text-align: center;
