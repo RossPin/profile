@@ -3,7 +3,7 @@ const reactProjects = [
     name: 'Anamata',
     img: 'anamata.png',
     url: 'https://anamata.herokuapp.com',
-    description: "An Online assesment for young people to take so risks and needs can be evaluated. This is a prototype I worked on for anamata CAFE as part of the Vodafone Change Accelorator."
+    description: "An Online assesment for young people to take so risks and needs can be evaluated. This is a prototype I worked on for Anamata CAFE as part of the Vodafone Change Accelorator."
   },
   {
     name: 'The Persistence',
