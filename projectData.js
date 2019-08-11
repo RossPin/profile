@@ -1,15 +1,21 @@
 const reactProjects = [
   {
+    name: 'Anamata',
+    img: 'anamata.png',
+    url: 'https://anamata.herokuapp.com',
+    description: "An Online assesment for young people to take so risks and needs can be evaluated. This is a prototype I worked on for Anamata CAFE as part of the Vodafone Change Accelorator."
+  },
+  {
     name: 'The Persistence',
     img: 'persistence.png',
     url: 'https://persistence-rp.herokuapp.com/',
-    description: "An online multiplayer game for 5-10 players based on board game 'The Resistance'. This was built with a team of 6 as our final group project in bootcamp."
+    description: "An online multiplayer game for 5-10 players based on board game 'The Resistance'. This was built with a team of 6 as our final group project in bootcamp. Basic AI players can be added to make up shortfall of connected players"
   },
   {
     name: 'The Persistence Gameplay Demo',
     img: 'persistence.png',
     url: 'https://youtu.be/9XKUVAEB7nM',
-    description: "A demonstration video of gameplay. I have provided this video as actual gameplay requires 5 players"
+    description: "A demonstration video of live gameplay with 5 players connected"
   },
   {
     name: 'Battle Ships',
