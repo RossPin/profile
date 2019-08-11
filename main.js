@@ -21,13 +21,16 @@ function fillPreBoot() {
 
 function addProject(section, element){
   section.innerHTML += `
-    <div class="project">
-      <a href="${element.url}" target="_blank">
+    <div class="project">      
         <div class="tooltip">
-          <img class="projectImg" src="images/${element.img}" alt="">
+          <a href="${element.url}" target="_blank"><img class="projectImg" src="images/${element.img}" alt=""><a/>
           <p class="tooltiptext unselectable">${element.description}</p>
-        </div>
-      </a>
+          <div class="info" onclick="displayInfo(this)">i</div>
+        </div>      
       <h4 class="noMargin">${element.name}</h4>
     </div>`
+}
+
+function displayInfo(element) {
+  element.parentElement.childNodes[1].style.visibility = 'visible'
 }
