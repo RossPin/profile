@@ -24,7 +24,7 @@ function addProject(section, element){
     <div class="project">      
         <div class="tooltip">
           <a href="${element.url}" target="_blank"><img class="projectImg" src="images/${element.img}" alt=""><a/>
-          <p class="tooltiptext unselectable">${element.description}</p>
+          <p class="tooltiptext unselectable"><span class="close" onclick="closeInfo(this)">X<br></span>${element.description}</p>
           <div class="info" onclick="displayInfo(this)">i</div>
         </div>      
       <h4 class="noMargin">${element.name}</h4>
@@ -33,4 +33,8 @@ function addProject(section, element){
 
 function displayInfo(element) {
   element.parentElement.childNodes[1].style.visibility = 'visible'
+}
+
+function closeInfo(element) {
+  element.parentElement.style.visibility = 'hidden'
 }

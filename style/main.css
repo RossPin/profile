@@ -84,7 +84,7 @@ body {
   user-select: none;
 }
 
-.info {
+.info, .close {
   display: none;
 }
 
@@ -104,9 +104,10 @@ body {
     margin: 5%;
   }
 
-  .tooltiptext {
-    width: 100%;
-  } 
+  .close {
+    display: block;
+    text-align: right;
+  }
 
   .info {
     display: block;
