@@ -76,14 +76,43 @@ body {
   margin-left: -60%;
 }
 
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-
 .unselectable {
   -moz-user-select: none;
   -khtml-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+.info {
+  display: none;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+@media all and (max-width: 768px) {
+  .section, .titleBanner {
+    width: 95%;
+  }
+
+  .project {
+    width: 90%;
+    margin: 5%;
+  }
+
+  .tooltiptext {
+    width: 100%;
+  } 
+
+  .info {
+    display: block;
+    float: right;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    width: 1.2em;
+  }
+  
 }
